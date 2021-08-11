@@ -1,0 +1,74 @@
+Hollow Rectangle: https://ide.geeksforgeeks.org/SqJN0Hqv6q
+
+Inverted Half Pyramid: https://ide.geeksforgeeks.org/vXxsQjrhFs
+
+180(Deg) above Q: https://ide.geeksforgeeks.org/WgPfteBS5t
+
+Pyramid Using Num: https://ide.geeksforgeeks.org/gc9yBO6Ah9
+
+Floyd's Triangle: https://ide.geeksforgeeks.org/ddMeMGESGQ
+
+Butterfly Pattern: https://ide.geeksforgeeks.org/aUlIs03Bbv
+
+Inverted Pattern (Num): https://ide.geeksforgeeks.org/kKvgV1KJ8n
+
+0-1 Pyramid Pattern: https://ide.geeksforgeeks.org/wGCRoDROOe
+
+Rhombus Pattern Question: https://ide.geeksforgeeks.org/51q0wJ53YS
+
+Number Pattern Triangle: https://ide.geeksforgeeks.org/XNEWKRCQ5A
+
+Palindromic Pattern: https://ide.geeksforgeeks.org/JDzzQAfMPZ
+
+Star Pattern (Triangle Up-Down): https://ide.geeksforgeeks.org/vXeaZZGkqu
+
+**Zig-Zag Pattern: https://youtu.be/k9OlCJFy5yo?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&t=1429
+		https://ide.geeksforgeeks.org/icIgQQfdph
+
+Reverse Digit: https://ide.geeksforgeeks.org/Nrk8QeoRNT
+
+Armstrong Number: https://ide.geeksforgeeks.org/QYRrNMvNsb
+
+Perfect Number: https://ide.geeksforgeeks.org/ww6gJnsZAs
+
+Strong Number: https://ide.geeksforgeeks.org/5zATVoPq7I
+
+GCD/HCF and LCM: https://ide.geeksforgeeks.org/4ZiZi244JK
+
+Palindrome in given range: https://ide.geeksforgeeks.org/9ujGGUMZTu
+
+Functions: 
+Prime in a Range: https://ide.geeksforgeeks.org/pCLIlVrvdO
+
+Fabonaci Sequence: https://ide.geeksforgeeks.org/FEbMGzdK2Z
+
+Factorial: https://ide.geeksforgeeks.org/xsnFR4hFIm
+
+Calculate nCr: https://ide.geeksforgeeks.org/IHby2ch7D4
+
+Pascal's Triangle: https://ide.geeksforgeeks.org/dEaSdZ5Z1i
+
+Sum of n-natural nummber: https://ide.geeksforgeeks.org/Y8aWY3OHWp
+
+Check Pythagorean Triplet:https://ide.geeksforgeeks.org/1mdPWeEJSE
+
+**Decimal To Binary: https://ide.geeksforgeeks.org/zohSBLRffI (Try Executing each recusion on your own, very interesting)
+
+Decimal To Octal: https://ide.geeksforgeeks.org/8EVdLXUjr5
+
+Binary to Decimal: https://ide.geeksforgeeks.org/X8EDTMeYy9
+
+Octa to Decimal: https://ide.geeksforgeeks.org/QbNJGHkcga
+
+Array:
+::for-each-loop.
+Max & Min in array: /array_q1.c
+
+Liner Search: /array_q2.c
+
+Binary Search: /array_q3.c
+
+Selection Sort: https://ide.geeksforgeeks.org/CrvS7KCz5V
+
+Bubble Sort: https://ide.geeksforgeeks.org/qwwPwNeNjO
+

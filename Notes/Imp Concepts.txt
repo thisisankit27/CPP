@@ -1,0 +1,4 @@
+Call Stack (Control Flow in memory) : https://youtu.be/83KtncYgHYQ?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&t=399
+
+For-each-loop (not for cin): https://www.geeksforgeeks.org/g-fact-40-foreach-in-c-and-java/
+

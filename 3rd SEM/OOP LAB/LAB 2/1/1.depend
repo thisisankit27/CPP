@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627970595 source:t:\kiit\oop\oop lab\lab 2\1\main.cpp
+	<iostream>
+	<string.h>
+
