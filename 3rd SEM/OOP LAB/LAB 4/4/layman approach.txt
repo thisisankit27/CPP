@@ -1,0 +1,59 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+class student
+{
+    char name_167[20];
+    int roll_167;
+    int marks_167;
+    static int total_167;
+    static int count_167;
+
+public:
+    void input_data()
+    {
+        cin.ignore();
+        cout << "Enter name: ";
+        cin.getline(name_167, 20);
+        cout << "Enter Roll: ";
+        cin >> roll_167;
+        cout << "Enter Marks: ";
+        cin >> marks_167;
+        total_167 += marks_167;
+        ++count_167;
+    }
+    friend int calc(student obj);
+};
+
+int calc(student obj)
+{
+    return (obj.total_167 / obj.count_167);
+}
+
+int student::total_167;
+int student::count_167;
+
+int main()
+{
+    int flag = 1;
+    while (flag)
+    {
+        cout << "1. Enter Student Data\n";
+        cout << "0. Exit\n";
+        cin >> flag;
+        switch (flag)
+        {
+        case 1:
+            student obj;
+            obj.input_data();
+            break;
+        case 0:
+            break;
+        default:
+            cout << "Invalid Entry";
+        }
+    }
+    student obj;
+    cout << calc(obj);
+}
