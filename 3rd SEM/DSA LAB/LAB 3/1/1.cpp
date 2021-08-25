@@ -56,8 +56,10 @@ int main()
             continue;
         case 6:
             largeSmall();
+            continue;
         case 7:
             sortArray();
+            continue;
         }
     }
     return 0;
@@ -104,7 +106,7 @@ void deleteElement()
     cout << "Enter position to delete: ";
     cin >> pos;
     if (pos >= n + 1)
-        printf("Deletion not possible.\n");
+        cout << "Deletion not possible.\n";
     else
     {
         for (int i = pos - 1; i < n - 1; i++)

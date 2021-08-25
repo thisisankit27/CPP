@@ -2,9 +2,10 @@
 using namespace std;
 int main()
 {
-    int A[10], n, i, j, x;
+    int n, i, j, x;
     cout << "Enter size of array : ";
     cin >> n;
+    int *A = (int *)malloc(n * sizeof(int));
     cout << "Enter elements of array : ";
     for (i = 0; i < n; i++)
         cin >> A[i];
@@ -21,7 +22,6 @@ int main()
         }
     }
     cout << "Second largest number : " << A[1];
-    cout << "\nSecond smallest number : " << A[n - 2];
-    system("pause");
+    cout << "\nSecond smallest number : " << A[n - 2] << endl;
     return 0;
 }

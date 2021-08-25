@@ -20,18 +20,20 @@ public:
         cout << "Enter Marks: ";
         cin >> marks_167;
     }
-    friend int calc(student ar[], int n);
+    friend void calc(student ar[], int n);
 };
 
 int student::avg;
 
-int calc(student ar[], int n)
+void calc(student ar[], int n)
 {
+    int sum = 0;
     for (int i = 0; i < n; i++)
     {
-        ar[i].avg += ar[i].marks_167;
+        sum += ar[i].marks_167;
     }
-    return (ar[0].avg / n);
+    student::avg = sum / n;
+    cout << "Average Marks: " << student::avg;
 }
 
 int main()
@@ -50,7 +52,7 @@ int main()
         {
             obj[i].input_data();
         }
-        cout << "Average Marks: " << calc(obj, n);
+        calc(obj, n);
     }
     return 0;
 }
